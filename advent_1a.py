@@ -22,5 +22,3 @@ c = 1
 b = 2
 d = b+c
 print(d)
-
-print("Hello")
